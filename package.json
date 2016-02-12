@@ -1,0 +1,14 @@
+{
+  "name": "website-builder",
+  "version": "0.0.0",
+  "description": "An nodejs website builder convert markdown file to real html",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
